@@ -1,9 +1,3 @@
-
-# ==========================================
-# PYTHON OPERATORS - COMPLETE NOTES
-# ==========================================
-
-
 # 1. ARITHMETIC OPERATORS
 # Used to perform mathematical calculations.
 
@@ -234,19 +228,3 @@ total_fee = contribution_amount + 20 * needs_transportation
 
 print("Total Fee:", total_fee)  # 70.0
 
-
-# ==========================================
-# QUICK REVISION
-# ==========================================
-
-# Arithmetic:    + - * / % ** //
-# Comparison:    == != > < >= <=
-# Assignment:    = += -= *= /= %= **= //=
-# Logical:       and or not
-# Identity:      is, is not
-# Membership:    in, not in
-# Bitwise:       & | ^ ~ << >>
-
-# ==========================================
-# END OF PYTHON OPERATORS
-# ==========================================
